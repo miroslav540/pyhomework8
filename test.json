@@ -1,0 +1,66 @@
+{
+ "name": ".",
+ "type": "dir",
+ "parent": ".",
+ "size": 4096
+}{
+ "name": "t1.py",
+ "type": "file",
+ "parent": ".",
+ "size": 1433
+}{
+ "name": "test.json",
+ "type": "file",
+ "parent": ".",
+ "size": 1305
+}{
+ "name": "test.svc",
+ "type": "file",
+ "parent": ".",
+ "size": 412
+}{
+ "name": ".idea",
+ "type": "dir",
+ "parent": ".\\.idea",
+ "size": 4096
+}{
+ "name": ".gitignore",
+ "type": "file",
+ "parent": ".\\.idea",
+ "size": 50
+}{
+ "name": "leson8.iml",
+ "type": "file",
+ "parent": ".\\.idea",
+ "size": 291
+}{
+ "name": "misc.xml",
+ "type": "file",
+ "parent": ".\\.idea",
+ "size": 189
+}{
+ "name": "modules.xml",
+ "type": "file",
+ "parent": ".\\.idea",
+ "size": 271
+}{
+ "name": "vcs.xml",
+ "type": "file",
+ "parent": ".\\.idea",
+ "size": 188
+}{
+ "name": "workspace.xml",
+ "type": "file",
+ "parent": ".\\.idea",
+ "size": 1153
+}{
+ "name": "inspectionProfiles",
+ "type": "dir",
+ "parent": ".\\.idea\\inspectionProfiles",
+ "size": 0
+}{
+ "name": "profiles_settings.xml",
+ "type": "file",
+ "parent": ".\\.idea\\inspectionProfiles",
+ "size": 174
+}
